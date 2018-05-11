@@ -47,5 +47,11 @@ MVC
 ```csharp
 using System;
 
-var count = 0;
+var x = 100;
+
+var y = 200;
+
+var ans = x + y;
+
+Console.WriteLine(ans);
 ```
